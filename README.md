@@ -25,5 +25,5 @@ character-ai-telegram-bot/
 # 🎥 Demo Video
 ...
 
-# ❗️ More Info
+# 📌 More Info
 ...
