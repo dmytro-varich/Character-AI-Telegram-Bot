@@ -22,9 +22,6 @@ character-ai-telegram-bot/
 │── README.md                    # Project documentation
 ```
 
-# 🎥 Demo Video
-...
-
 # 💻 Usage
 1. Clone this project to your computer using the following command:  
    ```bash
