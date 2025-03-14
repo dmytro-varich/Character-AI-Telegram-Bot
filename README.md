@@ -25,6 +25,28 @@ character-ai-telegram-bot/
 # 🎥 Demo Video
 ...
 
+# 💻 Usage
+1. Clone this project to your computer using the following command:  
+   ```bash
+   git clone https://github.com/dmytro-varich/Character-AI-Telegram-Bot.git
+   ```  
+
+2. Create a `.env` file and update the configuration in the `config` folder by adding the necessary variables or replacing placeholder tokens with your own.  
+
+3. Navigate to the project’s root directory using the command:  
+   ```bash
+   cd Character-AI-Telegram-Bot
+   ```  
+
+4. Start the Telegram bot by running the following command in the terminal:  
+   ```bash
+   python main.py
+   ```  
+
+5. Open the Telegram messenger and find your bot. Click **Start** to begin.  
+
+6. To activate the bot, you will need to send it the email address associated with your **Character.AI** account. You will receive an email containing your API key. After that, send the link to the chat with the character in **Character.AI**, and you will be able to start chatting in Telegram.
+
 # 📌 More Info
 The author of this project is Dmytro Varich. You can find more information about him and his projects on his Telegram channel [@varich_channel](https://t.me/varich_channel). For collaboration inquiries, feel free to contact him via LinkedIn ([dmytro-varich](https://www.linkedin.com/in/dmytro-varich/)) or email at varich.it@gmail.com.
 This Telegram bot [@babyfooji_character_ai_bot](https://t.me/babyfooji_character_ai_bot) was created as a test bot and is accessible only to the project creator. This limitation exists because the current version allows the bot to interact with only one chat. However, the project can be adapted to enable a single bot to communicate with multiple users, where each user would have their own individual conversation with a specific character.
