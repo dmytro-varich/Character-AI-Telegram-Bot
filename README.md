@@ -1,7 +1,7 @@
 # 👾 Character AI Telegram Bot
 This project demonstrates interaction with the API of the [Character AI](https://character.ai/) web application, as well as the structure and principles of Telegram bot development. It allows users to chat with a Character AI persona in [Telegram](https://web.telegram.org/) by sending and receiving messages via the API. The project is built using the [Unofficial Python API for Character.AI](https://github.com/kramcat/CharacterAI) and can serve as a foundation for developing custom bots that integrate AI characters into the messenger.
 
-
+![character-ai-telegram-bot-dv](https://github.com/user-attachments/assets/0d32d7e5-340e-418c-8951-6a27d0ad2c4f)
 
 # 🗂️ Project Structure 
 ```
