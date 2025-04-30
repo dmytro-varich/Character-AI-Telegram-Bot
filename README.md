@@ -5,7 +5,7 @@ This project demonstrates interaction with the API of the [Character AI](https:/
 
 
 # 🗂️ Project Structure 
-```
+```md
 character-ai-telegram-bot/
 │── config/ 
 │   ├── config.py                # Environment variable storage
@@ -21,7 +21,8 @@ character-ai-telegram-bot/
 │   ├── states.py                # State detection for dialog management with the user
 │── texts/ 
 │   ├── texts.py                 # Stores text messages
-│── requirements.txt             # List of project dependencies      
+│── requirements.txt             # List of project dependencies
+│── main.py                      # Entry point of the bot
 │── README.md                    # Project documentation
 ```
 
